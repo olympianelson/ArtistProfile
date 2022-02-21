@@ -37,7 +37,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+<param ve-map center="Q36600" zoom="11" prefer-geojson> [^2]
 
 ## Multiple viewers
 
@@ -50,3 +50,4 @@ Others are selectable using icons displayed in the top right margin of the parag
 # References
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^2]: [Juncture: from JSTOR Labs](https://juncture-digital.org/)
