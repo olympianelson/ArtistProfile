@@ -28,10 +28,10 @@ _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by D
 dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
 20th century after the earring worn by the girl portrayed there.[^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="Creation of Adam" 
+       description="painting by Michelangelo" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://en.wikipedia.org/wiki/The_Creation_of_Adam#/media/File:Michelangelo_-_Creation_of_Adam_(cropped).jpg">
 
 ## Map
 
