@@ -31,7 +31,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        label="Creation of Adam" 
        description="painting by Michelangelo" 
        license="public domain" 
-       url="https://en.wikipedia.org/wiki/The_Creation_of_Adam#/media/File:Michelangelo_-_Creation_of_Adam_(cropped).jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/8/82/Sistina-interno.jpg">
 
 ## Map
 
