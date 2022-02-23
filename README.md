@@ -37,7 +37,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 
 The work has been in the collection of the Baroque in Ferrara since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+<param ve-map center="Q13362" zoom="11" prefer-geojson>
 
 ## Multiple viewers
 
@@ -45,8 +45,8 @@ Multiple viewers may be defined for a single paragraph of text.  The first viewe
 Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
+<param ve-map center="Q13362" zoom="11">
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [Wikipedia: Crocifissione tra i Santi Valentino e Carlo Borromeo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ercole_Sarti_detto_il_Muto_di_Ficarolo%2C_Crocifissione_tra_i_Santi_Valentino_e_Carlo_Borromeo_%28prima_met%C3%A0_del_XVII_secolo%29%29.jpg/170px-Ercole_Sarti_detto_il_Muto_di_Ficarolo%2C_Crocifissione_tra_i_Santi_Valentino_e_Carlo_Borromeo_%28prima_met%C3%A0_del_XVII_secolo%29%29.jpg)
