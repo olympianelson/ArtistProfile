@@ -22,7 +22,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 # Basic usage
 
-## Image
+## Crucifixion with saints Valentine and Carlo Borromeo
 
 The parish church of Sant'Antonino Martire contains this work by Ercole Sarti, entitled _Crucifixion between saints Valentine_ and Charles Borromeo, believed to have been painted in the first half of the seventeenth century. It portrays the moment of execution that lies at the heart of the Christian tradition: the crucifixion of Jesus Christ at Golgotha, the place of the skull, which Sarti emphasizes with a sinister skull and cross-bones at the foot of the cross. Despite this grim marker, the atmosphere in the painting is serene, with its keynote given in a peaceful sky with its rich blue contrasting brightly with the lavish reds of the two saints beneath their God. 
 
@@ -38,7 +38,7 @@ Echoing this supernatural radiance, the clouds form a rhomboidal bracket around 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ercole_Sarti_detto_il_Muto_di_Ficarolo%2C_Crocifissione_tra_i_Santi_Valentino_e_Carlo_Borromeo_%28prima_met%C3%A0_del_XVII_secolo%29%29.jpg/170px-Ercole_Sarti_detto_il_Muto_di_Ficarolo%2C_Crocifissione_tra_i_Santi_Valentino_e_Carlo_Borromeo_%28prima_met%C3%A0_del_XVII_secolo%29%29.jpg">
 
 
-## Image
+## Madonna of the plague 
 
 In this work, Sarti represents the fourteenth-century Saint Roch, the Virgin and the third-century Saint Sebastian interceding for the plague-stricken. In the foreground the populus lies languishing, piled up on top of one another, pale and either fighting for life or already dead. Their ailment is likely to be the terrible plague that ravaged northern and central Italy in the 1600s, wiping out more than half the population. Saint Roch on the left points to the people while looking upward to the Virgin, pleading for her intervention. Saint Roch is the patron saint of the sick and has historically been invoked in art history against the plague following the Black Death and the Italian plague epidemic of 1477–79. 
 
