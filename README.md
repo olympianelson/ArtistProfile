@@ -1,8 +1,8 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Crocifissione tra i santi Valentino e Carlo Borromeo"
-       author="Ercole Sarti"
+       title="Ercole Sarti"
+       author="(author)"
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ercole_Sarti_detto_il_Muto_di_Ficarolo%2C_Crocifissione_tra_i_Santi_Valentino_e_Carlo_Borromeo_%28prima_met%C3%A0_del_XVII_secolo%29%29.jpg/170px-Ercole_Sarti_detto_il_Muto_di_Ficarolo%2C_Crocifissione_tra_i_Santi_Valentino_e_Carlo_Borromeo_%28prima_met%C3%A0_del_XVII_secolo%29%29.jpg" 
        layout="vertical">
 
@@ -14,7 +14,7 @@
 <param ve-entity eid="Q37853"> <!-- Baroque -->
 <param ve-entity eid="Q13362"> <!-- Ferrara -->
 
-# Sample visual essay
+# Several works of art
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
