@@ -24,9 +24,13 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Image
 
-_Crocifissione tra i Santi Valentino e Carlo Borromeo_ (Dutch: Meisje met de parel) is an oil painting by Ercole Sarti, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+The parish church of Sant'Antonino Martire contains this work by Ercole Sarti, entitled _Crucifixion between saints Valentine_ and Charles Borromeo, believed to have been painted in the first half of the seventeenth century. It portrays the moment of execution that lies at the heart of the Christian tradition: the crucifixion of Jesus Christ at Golgotha, the place of the skull, which Sarti emphasizes with a sinister skull and cross-bones at the foot of the cross. Despite this grim marker, the atmosphere in the painting is serene, with its keynote given in a peaceful sky with its rich blue contrasting brightly with the lavish reds of the two saints beneath their God. 
+
+The two figures flanking Christ’s lower body are the third-century Saint Valentine to the left and, to the right, Charles Borromeo, the Archbishop of Milan from 1564–1584 and cardinal of the Catholic Church. Saint Valentine holds the palm of martyrdom with a hand that is simultaneously pressed to his heart, looking upward at Christ. His gaze is mirrored by Charles Borromeo opposite him who clasps his hands together in a gesture of prayer and supplication. 
+
+Christ’s body is lean and muscular, pinned upright against the wood behind him; his agony and suffering are not realistically represented, but the wounds from the nails are evident in his feet. With arms horizontally stretched across the canvas, he is turned slightly to the side, where he might almost be welcoming the Holy Spirit figured discreetly in the form of a dove in flight. Christ’s head is illuminated by a halo-like light emanating from his head. 
+
+Echoing this supernatural radiance, the clouds form a rhomboidal bracket around Christ’s upper body, leaving a further zone of blue sky for the heads of the two saints below. Both saints are under the horizontal span of Christ on the cross, as if he were embracing them with open arms. This protective gesture on the part of Christ—even though he must be racked by pain—recalls Michelangelo’s description of his soul in a sonnet: ‘the soul, turned to that divine love who opens his arms upon the cross in order to take us’ (285.13–14). 
 <param ve-image 
        label="Crocifissione tra i Santi Valentino e Carlo Borromeo" 
        description="painting by Ercole Sarti" 
