@@ -37,9 +37,27 @@ Echoing this supernatural radiance, the clouds form a rhomboidal bracket around 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ercole_Sarti_detto_il_Muto_di_Ficarolo%2C_Crocifissione_tra_i_Santi_Valentino_e_Carlo_Borromeo_%28prima_met%C3%A0_del_XVII_secolo%29%29.jpg/170px-Ercole_Sarti_detto_il_Muto_di_Ficarolo%2C_Crocifissione_tra_i_Santi_Valentino_e_Carlo_Borromeo_%28prima_met%C3%A0_del_XVII_secolo%29%29.jpg">
 
+
+## Image
+
+In this work, Sarti represents the fourteenth-century Saint Roch, the Virgin and the third-century Saint Sebastian interceding for the plague-stricken. In the foreground the populus lies languishing, piled up on top of one another, pale and either fighting for life or already dead. Their ailment is likely to be the terrible plague that ravaged northern and central Italy in the 1600s, wiping out more than half the population. Saint Roch on the left points to the people while looking upward to the Virgin, pleading for her intervention. Saint Roch is the patron saint of the sick and has historically been invoked in art history against the plague following the Black Death and the Italian plague epidemic of 1477–79. 
+
+His status as pilgrim who suffered plague is essential in his iconography. In Sarti’s representation, his legs are bare, apparently displaying the plague bubo on his left leg, proof that he had triumphed over the disease. He is accompanied by a dog, alluding to the dog that brought him bread and licked his wounds when he was ill. Meanwhile, Saint Sebastian is tied to a tree, pierced with arrows, but poised and elegant with iridescent skin, triumphing over his impending death. Sarti creates a strong sense of dimension in the interlocking triangle between the three saints and Christ, guiding the viewer's eye to emphasize their intercessory powers. This sense of dimensionality is echoed through Sarti’s multiplicity of compositional layering: at once there is the terra firma that the saints stand on, but behind them is the ambiguous pit that the populus lies in—that is neither terra firma nor the green paddock behind them—they are part of another world of their own, the world of the sick and dying, which the saints seem to transcend. Adding to the separate horizontal planes is a town in the background, and sky and clouds.  
+
+The Virgin emerges forth from her own zone which is comfortingly circular and buoyant, with the energy of heaven that only she and her Child and the angels are privy to. It is a highly contrasting zone that wedges down toward the sick. The Virgin emerges with a celestial golden light that is striking against the dark colours of her maphorion, and the putti stand out against the dark murky clouds, creating a strong sense of contrast and dimensionality in this heavenly orbit that will extend its grace and redemption to the dying.  These formal contrasts created by Sarti have great expressive power for a population in need of faith and solace.
+<param ve-image 
+       label="Madonna of the plague " 
+       description="painting by Ercole Sarti" 
+       license="public domain" 
+       url="https://i.pinimg.com/originals/f1/cc/46/f1cc4670acf85e4cf2007d8c83306aec.jpg">
+
+
+
+
+
 ## Map
 
-The work has been in the collection of the Baroque in Ferrara since 1902 and has been the subject of various 
+These works has been in the collection of the Baroque in Ferrara since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <param ve-map center="Q13362" zoom="11" prefer-geojson>
 
