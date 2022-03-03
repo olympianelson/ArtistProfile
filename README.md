@@ -11,8 +11,11 @@
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q185372"> <!-- Crocifissione tra i Santi Valentino e Carlo Borromeo -->
 <param ve-entity eid="Q5385228"> <!-- Ercole Sarti -->
-<param ve-entity eid="Q37853"> <!-- Baroque -->
-<param ve-entity eid="Q13362"> <!-- Ferrara -->
+<param ve-entity eid="Q42005"> <!-- Black Death -->
+<param ve-entity eid="Q183332"> <!-- Saint Sebastian -->
+<param ve-entity eid="Q152457"> <!-- Saint Roch -->
+
+
 
 # Several works of art
 
