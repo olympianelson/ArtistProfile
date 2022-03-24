@@ -21,7 +21,7 @@
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       manifest="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ercole_Sarti_detto_il_Muto_di_Ficarolo%2C_Crocifissione_tra_i_Santi_Valentino_e_Carlo_Borromeo_%28prima_met%C3%A0_del_XVII_secolo%29%29.jpg/170px-Ercole_Sarti_detto_il_Muto_di_Ficarolo%2C_Crocifissione_tra_i_Santi_Valentino_e_Carlo_Borromeo_%28prima_met%C3%A0_del_XVII_secolo%29%29.jpg">
 
 # Basic usage
 
